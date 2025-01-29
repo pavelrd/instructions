@@ -296,3 +296,4 @@ a = (int*) &b; // не скомпилируется
 ```
 Ссылки:
 1. https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
+2. https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html
