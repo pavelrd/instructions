@@ -292,3 +292,6 @@ short int b;
 
 a = (int*) &b; // не скомпилируется
 ```
+Ссылки:
+1. https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
+2. https://habr.com/ru/articles/490850/
