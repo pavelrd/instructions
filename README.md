@@ -23,6 +23,7 @@
 <table>
   <tr><td>-fsanitize=undefined</td><td>Находит UB(undefined behaviour)</td></tr>
   <tr><td>-fsanitize=address</td><td>Находит некорректное обращение к памяти кучи</td></tr>
+  <tr><td>-fsanitize=thread</td><td>Находит "гонку данных"</td></tr>
 </table>
 
 <b>-Werror=return-type</b><br>
