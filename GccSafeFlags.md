@@ -9,7 +9,7 @@
 Обязательные флаги:
 
 ```
-  -Werror=return-type -Werror=float-equal -Werror=unused-variable -Werror=switch -Werror=implicit-fallthrough -Werror=free-nonheap-object -Werror=sequence-point -Werror=return-local-addr -Werror=format=2 -Werror=shadow -Werror=duplicated-cond -Wduplicated-branches -Werror=type-limits -Werror=logical-op -Werror=parentheses -Werror=char-subscripts -Werror=address -Werror=memset-elt-size -Werror=memset-transposed-args
+  -Werror=return-type -Werror=float-equal -Werror=unused-variable -Werror=switch -Werror=implicit-fallthrough -Werror=free-nonheap-object -Werror=sequence-point -Werror=return-local-addr -Werror=format=2 -Werror=shadow -Werror=duplicated-cond -Werror=duplicated-branches -Werror=type-limits -Werror=logical-op -Werror=parentheses -Werror=char-subscripts -Werror=address -Werror=memset-elt-size -Werror=memset-transposed-args
 ```
 
 Рекомендуемые флаги:
